@@ -2,7 +2,7 @@
     background-color:  var(--forenground);
     color: var(--primary-forengroud);
     padding: 5rem 0;
-    text-alingn: center;
+    text-align: center;
 }
 .intro.box{
     max-width: 60rem;

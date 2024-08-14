@@ -8,7 +8,7 @@
     href="assets/css/base.css">
     <link rel="shortcut icon"
     type="image/png"
-    href="assets/images/logo.png">
+    href="assets/imagens/logo.png">
     <link rel="stylesheet" 
     href="assets/css/header.css">
     <link rel="stylesheet" 
@@ -44,10 +44,10 @@
             bonitos e amo o que faço.
         </h2>
         <img class="hero-avatar" 
-        src="./assets/images/avatar.svg" 
+        src="./assets/imagens/avatar.svg" 
         alt="">
         <img class="hero-device"
-        src="./assets/images/hero-devices.svg"
+        src="./assets/imagens/hero-devices.svg"
         alt="">
     </section>
     <selection class="intro">
